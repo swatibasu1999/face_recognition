@@ -1,5 +1,6 @@
 # face_recognition
 Face Recognition using flask
+
 Flask is a Python-based web application framework that helps developers build web apps quickly and efficiently
 
 1. Download Visual studio code - https://code.visualstudio.com/download
